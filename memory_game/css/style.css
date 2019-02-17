@@ -104,5 +104,11 @@ button {
   width: 200px;
   margin-top: 20px;
   font-size: 24px;
+transition: 0.5s;
+}
+
+button:hover {
+  background-color: #fcfbf8;
+  color: #00A6B3;
 
 }
