@@ -51,3 +51,7 @@ var createBoard = function () {
 }
 }
 createBoard();
+
+var restart = function (){
+  document.location.href = "";
+}
